@@ -3,17 +3,17 @@
 1. **get(key)** - Get the value (will always be positve) of the key exists in the catheterizations, otherwise return -1.
 2. **put(key, value)**- Set or insert the value if the key is not already present. When the cache reached its capacity, it should remove the least recently used item before inserting a new item.
 
-##Put flow chart
+## Put flow chart
 
 ![put flow](pics/put-flow.png)
 
 ## Example
 
-####Capacity 4 example:
+#### Capacity 4 example:
 
 ![capacity 4 example](pics/cap-4-example.png)
 
-####Capacity 2 example:
+#### Capacity 2 example:
 
 
 
