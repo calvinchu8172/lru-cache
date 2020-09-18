@@ -5,13 +5,13 @@
 
 ##Put flow chart
 
-![put flow](/Users/calvinchu/Vagrant/vagrant-rvm-box/work/interview/lru-cache/pics/put-flow.png)
+![put flow](pics/put-flow.png)
 
 ## Example
 
 ####Capacity 4 example:
 
-![capacity 4 example](/Users/calvinchu/Vagrant/vagrant-rvm-box/work/interview/lru-cache/pics/cap-4-example.png)
+![capacity 4 example](pics/cap-4-example.png)
 
 ####Capacity 2 example:
 
